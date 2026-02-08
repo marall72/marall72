@@ -1,6 +1,6 @@
-<div style="float: left; width:30%">
-  <img src="https://raw.githubusercontent.com/marall72/marall72/main/giphy.gif" />
-</div>
+<p align="center">
+  <img src="https://github.com/marall72/marall72/blob/main/giphy%20(1).gif" />
+</p>
 <div>
   <div>  hi there!</div>
 <div>
